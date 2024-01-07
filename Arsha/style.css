@@ -1,17 +1,13 @@
+
 #header {
     position: sticky;
     top: 0;
-    z-index: 10;
-    /* style="background-color: #37517e;" */
-    /* background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url(../Arsha/img/cta/cta-bg.jpg) fixed center center; */
-
-   
+    z-index: 10;   
 }
 .navbar-dark .navbar-brand {
     font-size: 30px;
     font-weight: 500;
-    letter-spacing: 4px;
-    
+    letter-spacing: 4px; 
 }
 
 .nav-item{
@@ -48,8 +44,6 @@
 /* ================================================================================================== */
 #content{
     background-color: #37517e;
-    background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url(../Arsha/img/cta/cta-bg.jpg) fixed center center;
-
 }
 .contgetstart{
     text-decoration: none;
@@ -430,17 +424,8 @@
  #team{
     padding: 60px 0;
     overflow: hidden;
-    /* background-color: #f3f5fa; */
-    background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url(../Arsha/img/cta/cta-bg.jpg) fixed center center;
+    background-color: #f3f5fa;
  }
-
- #team h2{
-    color: white;
-}
-
-#team p{
-    color: white;
-}
 
  #team .member {
     position: relative;
@@ -482,7 +467,6 @@
 #team .member p {
     margin: 10px 0 0 0;
     font-size: 15px;
-    color:#000;
 }
 
 #team .member .social {
@@ -698,17 +682,8 @@
 #Newsletter{
     padding: 60px 0;
     overflow: hidden;
-    /* background-color: #f3f5fa; */
-    background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url(../Arsha/img/cta/cta-bg.jpg) fixed center center;
+    background-color: #f3f5fa;
 
-}
-
-#Newsletter h2{
-    color: white;
-}
-
-#Newsletter p{
-    color: white;
 }
 
 #Newsletter form {
