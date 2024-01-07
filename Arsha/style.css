@@ -2,6 +2,9 @@
     position: sticky;
     top: 0;
     z-index: 10;
+    /* style="background-color: #37517e;" */
+    /* background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url(../Arsha/img/cta/cta-bg.jpg) fixed center center; */
+
    
 }
 .navbar-dark .navbar-brand {
@@ -45,6 +48,8 @@
 /* ================================================================================================== */
 #content{
     background-color: #37517e;
+    background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url(../Arsha/img/cta/cta-bg.jpg) fixed center center;
+
 }
 .contgetstart{
     text-decoration: none;
@@ -326,7 +331,7 @@
 #services .container .card-body .boicon {
     font-size: xx-large;
     padding-bottom: 25px;
-    color:#31a9e1;
+    color:darkblue;
 }
 #services .container .card-body:hover{
     position: relative;
@@ -336,8 +341,10 @@
    
 }
 #services .container .card-body:hover h5{
-    color:#31a9e1 ;
-   
+    color:#3292bf ;
+}
+#services .container .card-body:hover i{
+    color:#3292bf ;
 }
 /* ========================================================================================================== */
 
@@ -417,13 +424,23 @@
     position: relative;
     bottom: 10px;
  }
+
  /* ======================================================================================================== */
 
  #team{
     padding: 60px 0;
     overflow: hidden;
-    background-color: #f3f5fa;
+    /* background-color: #f3f5fa; */
+    background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url(../Arsha/img/cta/cta-bg.jpg) fixed center center;
  }
+
+ #team h2{
+    color: white;
+}
+
+#team p{
+    color: white;
+}
 
  #team .member {
     position: relative;
@@ -465,6 +482,7 @@
 #team .member p {
     margin: 10px 0 0 0;
     font-size: 15px;
+    color:#000;
 }
 
 #team .member .social {
@@ -631,7 +649,7 @@
 #Contact .info i {
     font-size: 20px;
     color: #47b2e4;
-    float: left;
+    
     width: 44px;
     height: 44px;
     background: #e7f5fb;
@@ -639,6 +657,7 @@
     justify-content: center;
     align-items: center;
     border-radius: 50px;
+    float: left;
     transition: all 0.3s ease-in-out;
 }
 
@@ -679,7 +698,17 @@
 #Newsletter{
     padding: 60px 0;
     overflow: hidden;
-    background-color: #f3f5fa;
+    /* background-color: #f3f5fa; */
+    background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url(../Arsha/img/cta/cta-bg.jpg) fixed center center;
+
+}
+
+#Newsletter h2{
+    color: white;
+}
+
+#Newsletter p{
+    color: white;
 }
 
 #Newsletter form {
