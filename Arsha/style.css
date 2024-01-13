@@ -361,20 +361,10 @@
 }
 /* ========================================================================================================================== */
 #Contact .info {
-    border-top: 3px solid #47b2e4;
-    border-bottom: 3px solid #47b2e4;
-    padding: 30px;
     background: #fff;
-    width: 100%;
-    box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
 }
 #Contact .php-email-form {
-    width: 100%;
-    border-top: 3px solid #47b2e4;
-    border-bottom: 3px solid #47b2e4;
-    padding: 30px;
     background: #fff;
-    box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 #Contact .info i {
     font-size: 20px;
@@ -421,19 +411,12 @@
 }
 /* =================================================================================================== */
 #Newsletter{
-    padding: 60px 0;
-    overflow: hidden;
     background-color: #f3f5fa;
 }
 #Newsletter form {
-    margin: 30px;
     display:flex;
     background: #fff;
-    padding: 6px 10px;
     position: relative;
-    border-radius: 50px;
-    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.06);
-    text-align: left;
 }
 #Newsletter .input{
     border: 0;
