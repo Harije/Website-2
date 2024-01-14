@@ -169,10 +169,10 @@
     transition: 0.5s; 
 }
 #services .container .card-body .card-title {
-    color: darkblue; 
+    color:  #37517e; 
 }
 #services .container .card-body .boicon {
-    color:darkblue;
+    color: #37517e;
 }
 #services .container .card-body:hover{
     position: relative;
